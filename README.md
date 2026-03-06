@@ -6,7 +6,6 @@ It predicts 3 long-term zones :
 - Sell zone: favorable for selling
 - Neutral zone: hodl
 
-⚠️ This model is experimental and **we are not responsible for any financial loss**. Use at your own risk.
 
 ## Datasets
 
@@ -24,3 +23,7 @@ The current dataset does not contain any labels, so the following labels are ass
 
 - 14-period weekly RSI
 - 200-period weekly SMA
+
+## Results
+
+The cross validation step showed that the different models predict poorly on these datasets.
